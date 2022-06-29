@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58385086-6d77-4da3-a27e-7dcb973025d3" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ArticleItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ArticleItem/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AuthRoute/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/KeepAlive/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NoneComment/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NoneComment/nonecomment.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Acticle/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Acticle/style/commentFooter.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Acticle/style/commentInput.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Acticle/style/commentItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Acticle/style/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Acticle/style/reply.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ArticleItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ArticleItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/ArticleList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/Channels.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/articleList.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/components/channeIs.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Layout/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NoMatch/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NoMatch/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/EditInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/EditList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/styles/chat.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/styles/edit.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/styles/editInput.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/styles/editList.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/styles/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Question/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Question/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Search/SearchResult.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Search/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Search/styles/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Search/styles/serchResult.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Video/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Video/index.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/route/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/use-initial-state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/language.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="29bKgSheM5dgpjVWagggmgCTLk0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/Home/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\SoftwareFc\webstorm\WebStorm 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\孙宁阳\Desktop\language\move\src\pages\Home\components" />
+      <recent name="C:\Users\孙宁阳\Desktop\language\move\src\pages\Home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\孙宁阳\Desktop\language\move\src\pages\Acticle\style" />
+      <recent name="C:\Users\孙宁阳\Desktop\language\move\src\pages\Profile\Edit" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="58385086-6d77-4da3-a27e-7dcb973025d3" name="变更" comment="" />
+      <created>1653376456638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653376456638</updated>
+      <workItem from="1653376459700" duration="11000" />
+      <workItem from="1653376511333" duration="180000" />
+      <workItem from="1653376705888" duration="12578000" />
+      <workItem from="1653480219630" duration="671000" />
+      <workItem from="1653523357538" duration="21695000" />
+      <workItem from="1653610228127" duration="15402000" />
+      <workItem from="1653803870387" duration="6803000" />
+      <workItem from="1653869288402" duration="9732000" />
+      <workItem from="1653896850438" duration="1656000" />
+      <workItem from="1653898657937" duration="11881000" />
+      <workItem from="1653916527762" duration="739000" />
+      <workItem from="1653917373167" duration="21000" />
+      <workItem from="1653955382674" duration="10170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
