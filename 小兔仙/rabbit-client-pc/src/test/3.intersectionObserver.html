@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div id="box">box</div>
+<script>
+  const box = document.getElementById('box')
+  // 1. 创建监听对象
+  const observer = new IntersectionObserver(([{isIntersecting}]) => {
+    // 3. 判断元素是否进入可视区
+    if (isIntersecting) {
+      // 4. 停止监听
+      observer.unobserve(box)
+    }
+  })
+  // 2. 指定监听的元素
+  observer.observe(box)
+</script>
+</body>
+</html>
